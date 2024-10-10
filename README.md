@@ -10,3 +10,4 @@ The reports are dynamic and have live links to Power Bi projects I have created.
 As I finish new projects, I will be regualrly updating my portfolio. 
 Enjoy!!!
 
+![Screenshot 2024-10-10 194057](https://github.com/user-attachments/assets/d9072e3a-b7a9-45cc-aa28-c24b0277be0b)
